@@ -1,0 +1,7 @@
+DATA_DIR = r'F:\Captcha\captcha_images_v2'
+BATCH_SIZE = 8
+IMAGE_HEIGHT = 300
+IMAGE_WIDTH = 75
+NUM_WORKERS = 2
+EPOCHS = 200
+DEVICE = 'cpu'
